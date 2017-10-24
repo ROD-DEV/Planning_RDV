@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agenda>
+    <rendez-vous>
+        <confirmer>true</confirmer>
+        <contact>ggggggggggg</contact>
+        <date>2017-01-18</date>
+        <heure>8:00</heure>
+        <objet>gjgj;</objet>
+        <telephone>hhhhhhhhhh</telephone>
+        <transport>false</transport>
+    </rendez-vous>
+    <rendez-vous>
+        <confirmer>true</confirmer>
+        <contact>ggggggggggggg</contact>
+        <date>2017-01-18</date>
+        <heure>8:00</heure>
+        <objet>vvvvvvvvvvvvvvv</objet>
+        <telephone>pppppppppppp</telephone>
+        <transport>false</transport>
+    </rendez-vous>
+</agenda>
